@@ -1,0 +1,71 @@
+<suite name = "Flipkart">
+   
+        
+        <test name = "login">
+            <classes>
+                <class name = "com.TestScripts.Login">  </class>
+            </classes>
+     </test>
+     
+         
+     
+    <test name = "AllLinks">
+        
+        <classes>
+            
+            <class name = "Test.All_Links">
+                
+            </class>
+        </classes>
+        
+      </test>
+      
+     <test name = "Logout">
+        
+        <classes>
+            
+            <class name = "Test.Logout">
+                
+            </class>
+        </classes>
+        
+      </test>
+      
+     <test name = "SearchProduct">
+        
+        <classes>
+            
+            <class name = "Test.Search_Product">
+                
+            </class>
+        </classes>
+        
+      </test>
+      
+     <test name = "TrackingOrder">
+        
+        <classes>
+            
+            <class name = "Test.Order_Track">
+                
+            </class>
+        </classes>
+        
+      </test>
+      
+     <test name = "SignUp">
+        
+        <classes>
+            
+            <class name = "Test.SignUp">
+                
+            </class>
+        </classes>
+        
+      </test>
+     
+      
+     
+      
+    
+     </suite>
